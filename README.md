@@ -1,8 +1,3 @@
-Perfect! Here's the **updated `README.md`** with all examples rewritten in **JavaScript**, ideal for frontend or Node.js developers consuming your nested JSON dataset.
-
----
-
-````markdown
 # 🇳🇬 Nigeria States, LGAs, and Wards Dataset
 
 An open and structured dataset of **Nigeria's 36 States**, **774 Local Government Areas (LGAs)**, and their **electoral Wards**, organized in a deeply nested JSON format.
